@@ -18,4 +18,11 @@
 ## Two Linearly Moving and Rotating Obstacles
 ![Two_MovingLinearly_Rotating_Obstacle](https://user-images.githubusercontent.com/77897560/175846086-5100c6ad-56b9-4eb3-ac63-9d3e306d77f4.gif)
 
+## References
+[ICRA 2019 Tutorial](https://epfl-lasa.github.io/TutorialICRA2019.io/)
+
+[Avoiding Dense and Dynamic Obstacles in
+Enclosed Spaces: Application to Moving in Crowds
+](https://arxiv.org/pdf/2105.11743.pdf)
+
 
